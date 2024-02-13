@@ -1,0 +1,19 @@
+/* NavigationBar.css */
+.navigation-bar {
+    background-color: #f8f9fa; /* Light background */
+    padding: 10px 0; /* Padding around the navigation */
+    text-align: center; /* Center the links */
+  }
+  
+  .nav-link {
+    margin: 0 15px; /* Space out the links */
+    text-decoration: none; /* No underline */
+    color: #007bff; /* Link color */
+    font-size: 18px; /* Increase font size */
+  }
+  
+  .nav-link.active {
+    font-weight: bold; /* Make active link bolder */
+    color: #0056b3; /* Darker color for active link */
+  }
+  

@@ -1,0 +1,18 @@
+.snack-background-soda {
+    background-image: url('../assets/images/soda-background.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .snack-background-chips {
+    background-image: url('../assets/images/chips-background.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .snack-background-candy {
+    background-image: url('../assets/images/candy-background.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
